@@ -1,0 +1,7 @@
+Estudos de git hub
+	git clone -> clonar repositorios públicos on line do git;
+	git status -> mostrar status do repositorio atual;
+	git add .  -> para adicionar todas as alterações ao repositorio local;
+	git add -A -> para adicionar parte das alterações;
+	git commit -m "Mensagem qualquer aqui"  -> adicionar ao repositorio global online;
+	git push origin main -> enviara alterações para o git;
